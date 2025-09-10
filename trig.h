@@ -1,29 +1,6 @@
 #ifndef TRIG_H
 #define TRIG_H
 
-
-// char *questions[20] = {
-//         "Why do you feel sad?\n",
-//         "What makes you feel sympathy?\n",
-//         "What makes you angry?\n",
-//         "What is causing your frustration?\n",
-//         "What makes you happy?\n",
-//         "What brings you joy?\n",
-//         "What confuses you?\n",
-//         "What are you uncertain about?\n",
-//         "What are you afraid of?\n",
-//         "What causes your anxiety?\n",
-//         "Why do you feel gratitude?\n",
-//         "What do you appreciate?\n",
-//         "What are you curious about?\n",
-//         "What interests you?\n",
-//         "Who do you love and why?\n",
-//         "How do you express affection?\n",
-//         "What kind of humor do you like?\n",
-//         "How do you like to have fun?\n"
-//         "how can i help you?\n",
-//         "How do you like to have fun?\n"
-//     };
 char *sad_questions[3] = {
     "why do you feel sad?\n",
     "what happened that's making you sad?\n",
